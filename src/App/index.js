@@ -4,6 +4,7 @@ import useWindowSize from './useWindowSize';
 import SkillsList from "./SkillsList";
 import Description from './Description';
 import JobsList from './JobsList'
+// import { sliceMdxString } from "uvcanvas";
 import './App.css'
 
 
@@ -13,16 +14,15 @@ function App() {
 
     return (
         <React.Fragment>
-
             <Header widthScreen={width}/>
             <Description/>
             <SkillsList/>
-            <JobsList/>
+            <JobsList/> 
             
         </React.Fragment>
     );
   }
 
-
+                     
 export default App ;
 

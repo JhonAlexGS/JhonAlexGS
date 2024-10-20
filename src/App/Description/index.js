@@ -24,12 +24,21 @@ const Description = () =>{
         myCat0, myCat1, myCat2
     ]
 
+    const catSize = [
+        ["100px","100px"], ["100px","100px"], ["100px","100px"]
+    ]
+
     return (
 
-        <div className='description'>
+        <div className='description shadow-box'>
 
             <div id="cardCat" class="centerXY">
-                <img id="imgCat" className='circleEdge' alt="Cat" src={catEyes[stateCatEyes]}  
+                <img id="imgCat" className='circleEdge' 
+                    style={{
+                        height:catSize[stateCatEyes][0],
+                        width:catSize[stateCatEyes][1]
+                    }} 
+                    alt="Cat" src={catEyes[stateCatEyes]}  
                     onClick={
                         () => {
                             if (stateCatEyes === 2) {
@@ -40,7 +49,9 @@ const Description = () =>{
                             
                         }
                     }/>
-                <div class="button_slide slide_left" onClick={handleButtonClick}>CV </div>
+                <div class="button_slide slide_left buttonCV" onClick={handleButtonClick}>
+                    <h1>CV</h1>
+                </div>
             </div>
             
             <div id="aboutMe" class="centerY broad">
@@ -53,12 +64,13 @@ const Description = () =>{
                 </div>
                 
                 <p class="smallText">
-                    Cuento con 2 años de experiencia profesional en areas de la tecnología
-                    y con interés en Redes, Base de Datos <FaDatabase />, Desarrollo Web <MdWebAsset />, 
-                    Radio definida por Software <IoIosRadio />, Arquitectura de Software <GrCloudSoftware />,
-                    Diseño de Experiencia de Usuario <FaUser />, Seguridad de la Información <MdOutlineSecurity />,
-                    Inteligencia Artificial <GiArtificialIntelligence />, Desarrollo en el Back-end 
-                    y Front-end <SiFrontendmentor />.
+                    <br></br>
+                    Mi nombre es Jhon Alexander García Sierra, 
+                    <br></br><br></br>
+                    Soy ingeniero de sistemas con 2 años de experiencia profesional en áreas de la tecnología. Tengo un gran interés en múltiples campos como redes <GiArtificialIntelligence />, bases de datos <FaDatabase />, desarrollo web <MdWebAsset />, radio definida por software <IoIosRadio />, arquitectura de software <GrCloudSoftware />, diseño de experiencia de usuario <FaUser />, seguridad de la información e inteligencia artificial <MdOutlineSecurity />. 
+                    <br></br><br></br>
+                    Además, poseo habilidades tanto en el desarrollo de back-end como de front-end, <SiFrontendmentor /> lo que me permite ofrecer soluciones completas y eficientes en los proyectos que lidero.
+
                 </p>
             </div>
         </div>

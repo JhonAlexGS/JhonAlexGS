@@ -8,7 +8,7 @@ import './SkillsList.css';
 const SkillsList = () =>{
 
   const items = [
-    
+
     { title: "FrontEnd", name: <FaCode />,
       skills: ["JavaScript", "ReactJS", "TypeScript", "Angular", "HTML5", "CSS"]
      },
@@ -16,16 +16,16 @@ const SkillsList = () =>{
       skills: ["Python", "Java", "Express", "MySQL", "MongoDB"]
      },
     { title: "Testing", name: <GrTest />,
-      skills: ["Jest", "Selenium", "Insomnia", "Postman", "Linux"]
+      skills: ["Selenium", "Insomnia", "Postman", "Linux", "Jest"]
      },
     { title: "Herramientas", name: <IoIosSettings />,
-      skills: ["GitHub", "Scrum", "Audacity", "Matlab", "Skelearn"]
+      skills: ["GitHub", "Scrum", "Audacity", "Matlab", "Skelearn", "OpenShot"]
       },
 
   ];
 
     return (
-      <div className="containerSkills">
+      <div className="containerSkills ">
         
         {items.map(item => (
           <div className=" box centerX">
