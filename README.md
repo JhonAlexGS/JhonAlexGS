@@ -70,6 +70,14 @@ Ingeniero de Sistemas y Telecomunicaciones egresado de la **Universidad Sergio A
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
 </p>
 
+### 🔄 Automatización & Workflows
+
+<p align="center">
+  <img src="https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier"/>
+  <img src="https://img.shields.io/badge/IFTTT-000000?style=for-the-badge&logo=ifttt&logoColor=white" alt="IFTTT"/>
+</p>
+
 ### 📱 Mobile Development
 
 <p align="center">
