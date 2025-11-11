@@ -40,6 +40,26 @@ Ingeniero de Sistemas y Telecomunicaciones egresado de la **Universidad Sergio A
 
 ---
 
+## 📊 GitHub Analytics
+
+
+<p align="center">
+  <a href="https://github.com/JhonAlexGS">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JhonAlexGS&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+    <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonAlexGS&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+  </a>
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=JhonAlexGS&theme=github-dark&hide_border=true" />
+</p>
+
+<div align="center">
+
+
+
+![Actividad](https://github-readme-activity-graph.vercel.app/graph?username=JhonAlexGS&theme=react-dark&bg_color=20232a&hide_border=true&area=true)
+
+</div>
+
 ## 🚀 Tech Stack
 
 ### 💻 Lenguajes de Programación
