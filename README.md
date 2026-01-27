@@ -140,11 +140,6 @@ Ingeniero de Sistemas y Telecomunicaciones egresado de la **Universidad Sergio A
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 
-
-
-
-
-
 ### 🛠️ Herramientas & Software
 
 <p align="center">
