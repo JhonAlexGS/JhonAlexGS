@@ -1,7 +1,5 @@
 ![fondo](https://github.com/user-attachments/assets/ed5513e1-c773-484f-a62c-21e66c08ed9f)
 
-
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2332,100:0d1117&height=200&section=header&text=Jhon%20Alexander%20García%20Sierra&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Ingeniero%20de%20Sistemas%20y%20Telecomunicaciones&descAlignY=55&descSize=18&stroke=58a6ff&strokeWidth=2"/>     
 
 <p align="center">  
@@ -27,7 +25,6 @@ Ingeniero de Sistemas y Telecomunicaciones egresado de la **Universidad Sergio A
 🔹 Base de Datos y Big Data
 🔹 DevOps y Cloud Computing
 ```
-
 
 ## 📫 Connect
 - **GitHub:** [@jhonalexgs](https://github.com/jhonalexgs)
