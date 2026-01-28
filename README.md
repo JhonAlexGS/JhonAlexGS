@@ -149,3 +149,10 @@ Ingeniero de Sistemas y Telecomunicaciones egresado de la **Universidad Sergio A
   <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop"/>
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
 </p>
+
+
+
+
+
+
+
