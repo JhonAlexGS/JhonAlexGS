@@ -8,13 +8,6 @@
 
 
 
-
-
-
-
-
-
-
 <img width="1086" height="314" alt="image" src="https://github.com/user-attachments/assets/9b079cc5-8227-460b-b5b1-2aa98dd3d054" />
 
 
