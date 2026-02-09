@@ -161,28 +161,3 @@ Ingeniero de Sistemas y Telecomunicaciones egresado de la **Universidad Sergio A
   <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop"/>
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
 </p>
-
-## Automatización con n8n
-
-El proyecto integra n8n como plataforma de automatización para gestionar el flujo de trabajo del pipeline de clasificación de imágenes y mantener actualizada la documentación del proyecto en GitHub.
-
-### Workflow Implementado
-
-El workflow de n8n coordina las siguientes tareas:
-
-1. **Monitoreo de Directorio**: Detecta nuevas imágenes cargadas en el directorio de entrada
-2. **Ejecución del Pipeline**: Invoca el pipeline de clasificación multi-fase para procesar las imágenes
-3. **Recolección de Métricas**: Captura estadísticas de precisión, recall y F1-score de cada ejecución
-4. **Actualización de Documentación**: Genera reportes automáticos con los resultados obtenidos
-5. **Commit a GitHub**: Actualiza el README.md y archivos de resultados en el repositorio con los últimos experimentos
-
-### Beneficios de la Automatización
-
-- **Reproducibilidad**: Cada ejecución queda documentada automáticamente en el historial de Git
-- **Trazabilidad**: Registro completo de métricas y configuraciones utilizadas en cada experimento
-- **Colaboración**: El equipo puede visualizar resultados actualizados sin intervención manual
-- **Eficiencia**: Elimina tareas repetitivas de documentación y actualización del repositorio
-
-### Configuración
-
-El workflow de n8n se encuentra definido en el archivo `workflows/image_classification_pipeline.json` y puede ser importado directamente en cualquier instancia de n8n para replicar la automatización.
