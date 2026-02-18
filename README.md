@@ -1,7 +1,5 @@
 <img width="1086" height="314" alt="image" src="https://github.com/user-attachments/assets/9b079cc5-8227-460b-b5b1-2aa98dd3d054" />
 
-
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2332,100:0d1117&height=200&section=header&text=Jhon%20Alexander%20García%20Sierra&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Ingeniero%20de%20Sistemas%20y%20Telecomunicaciones&descAlignY=55&descSize=18&stroke=58a6ff&strokeWidth=2"/>     
 
 <p align="center">  
