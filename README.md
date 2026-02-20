@@ -6,6 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&multiline=false&width=800&height=50&lines=Desarrollador+Full+Stack;Redes+y+Telecomunicaciones;Inteligencia+Artificial;Arquitectura+de+Software;Seguridad+de+la+Información;Especialista+en+Base+de+Datos" alt="Typing SVG" />
 </p>
 
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jhongarcia&label=Visitas&color=0e75b6&style=flat" alt="profile views" />
   <!-- <img src="https://img.shields.io/github/followers/JhonAlexGS?label=Followers&style=social" alt="GitHub followers" /> -->
